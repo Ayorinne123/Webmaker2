@@ -17,3 +17,6 @@ body {
 a:hover{
     text-decoration: none;
 }
+.padding{
+    padding-left: 30px
+}
