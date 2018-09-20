@@ -21,3 +21,8 @@ a:hover {
 .padding-left {
     padding-left: 30px;
 }
+.absolute-right {
+    position: absolute;
+    right: 15px;
+    z-index: 2;
+}
